@@ -1,5 +1,5 @@
-component {623b2a40-a996-11e3-a5e2-0800200c9a66} components/chatme.js
-contract @instantbird.org/purple/chatme;1 {623b2a40-a996-11e3-a5e2-0800200c9a66}
+component {4a41d120-a9bc-11e3-a5e2-0800200c9a66} components/chatme.js
+contract @instantbird.org/purple/chatme;1 {4a41d120-a9bc-11e3-a5e2-0800200c9a66}
 category im-protocol-plugin prpl-chatme @instantbird.org/purple/chatme;1
 
 skin prpl-chatme     classic/1.0 chrome/skin/
